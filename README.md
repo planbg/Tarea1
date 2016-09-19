@@ -1,2 +1,2 @@
 # Tarea1
-Repositorio contiene los archivos necesarios ejecutar a la Tarea 1
+Repositorio contiene archivos de "values" en donde se cambiaron los colores
